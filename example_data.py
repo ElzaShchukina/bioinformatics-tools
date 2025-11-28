@@ -1,6 +1,6 @@
 # Small dataset and quick manual tests for the package
 
-from main import run_dna_rna_tools, filter_fastq
+from main_old import run_dna_rna_tools, filter_fastq
 
 # name -> (sequence, quality)
 READS = {
